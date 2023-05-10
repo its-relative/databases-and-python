@@ -8,5 +8,5 @@ UPDATE User SET name = "Saket" WHERE email = "sap.py@gmail.com"
 DELETE FROM User WHERE name = "Saket"
 
 SELECT * SORT BY name ASC
-
+DROP TABLE table name
 going to keep on adding more files as we move on in this process.
